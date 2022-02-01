@@ -32,6 +32,6 @@ We also want to know where our smallest price is - this is a strong contender fo
 
 To calculate the profit at each station 'i', subtract the smallest seen price, smallest, from the current price, prices[i]. If the current profit level is larger than any we've seen before, set max equal to the current profit level. 
 
-Video explanation: https://www.youtube.com/watch?v=mj7N8pLCJ6w
-
 After our for loop is complete, we should have the correct max value. return it. 
+
+Video explanation: https://www.youtube.com/watch?v=mj7N8pLCJ6w
